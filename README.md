@@ -24,7 +24,7 @@ If you want to run the program yourself and/or enter different data, do the foll
 ### Financial planner for emergencies 
 In <b>Step 1</b>:
 1. Enter the current number of coins for each cryptocurrency asset held in the portfolio.
-2. Enter the monthly amount for the member's household income. </br>
+2. Enter the monthly amount for the member's household income. <br />
 There are 3 possible outcomes:
 - total portfolio value succeeds the emergency fund value
 - total portfolio value equals to the emergency fund value
