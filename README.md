@@ -22,6 +22,9 @@ If you want to run the program yourself and/or enter different data, do the foll
 <img width="828" alt="Screen Shot 2022-10-17 at 8 34 11 PM" src="https://user-images.githubusercontent.com/111472420/196329709-0c0d8c50-fb10-4367-9e48-27fba82c8907.png"> <br />
 
 ### Financial planner for emergencies 
+In <b>Step 1</b>:
+1. Enter the current number of coins for each cryptocurrency asset held in the portfolio.
+2. Enter the monthly amount for the member's household income. </br>
 There are 3 possible outcomes:
 - total portfolio value succeeds the emergency fund value
 - total portfolio value equals to the emergency fund value
@@ -31,6 +34,7 @@ There are 3 possible outcomes:
 ### Financial planner for retirement
 There are two ready for use MCSimulator templates (for 30 and 10 years). <br />
 You can adjust:
+- current amount of shares held in both the stock (SPY) and bond (AGG) portion of the portfolio.
 - start and end dates for collective data
 - number of trading days (252 * years)
 - stocks/bonds ratio (weights)
