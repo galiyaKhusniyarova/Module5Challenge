@@ -19,24 +19,26 @@ If you want to run the program yourself and/or enter different data, do the foll
 <img width="596" alt="Screen Shot 2022-10-17 at 8 32 52 PM" src="https://user-images.githubusercontent.com/111472420/196329414-28ca083b-e09c-4ad5-9922-4e57402cad5b.png">
 
 4. Open financial_planning_tools.ipynb and Run the code!
-<img width="828" alt="Screen Shot 2022-10-17 at 8 34 11 PM" src="https://user-images.githubusercontent.com/111472420/196329709-0c0d8c50-fb10-4367-9e48-27fba82c8907.png">
-# Financial planner for emergencies 
+<img width="828" alt="Screen Shot 2022-10-17 at 8 34 11 PM" src="https://user-images.githubusercontent.com/111472420/196329709-0c0d8c50-fb10-4367-9e48-27fba82c8907.png"> <br />
+
+### Financial planner for emergencies 
 There are 3 possible outcomes:
 - total portfolio value succeeds the emergency fund value
 - total portfolio value equals to the emergency fund value
 - total portfolio value fails the emergency fund value
-<img width="821" alt="Screen Shot 2022-10-17 at 8 39 06 PM" src="https://user-images.githubusercontent.com/111472420/196330262-77131450-6b6e-43ce-8988-4d92b5d125c2.png">
-# Financial planner for retirement
-There are two ready for use MCSimulator templates (for 30 and 10 years).
+<img width="821" alt="Screen Shot 2022-10-17 at 8 39 06 PM" src="https://user-images.githubusercontent.com/111472420/196330262-77131450-6b6e-43ce-8988-4d92b5d125c2.png"> <br />
+
+### Financial planner for retirement
+There are two ready for use MCSimulator templates (for 30 and 10 years). <br />
 You can adjust:
 - start and end dates for collective data
 - number of trading days (252 * years)
 - stocks/bonds ratio (weights)
-- number of simulations
+- number of simulations <br />
 
-<i>The visualized results of your calculations will be saved in the same directory.</i>
+<i>The visualized results of your calculations will be saved in the same directory.</i><br />
 
-<img width="1145" alt="Screen Shot 2022-10-17 at 8 54 05 PM" src="https://user-images.githubusercontent.com/111472420/196331751-e7844c2a-75c3-4777-b30e-f92cada81482.png">
+<img width="1145" alt="Screen Shot 2022-10-17 at 8 54 05 PM" src="https://user-images.githubusercontent.com/111472420/196331751-e7844c2a-75c3-4777-b30e-f92cada81482.png"> <br />
 
 ![MC_10year_sim_plot](https://user-images.githubusercontent.com/111472420/196332183-25b85e23-990a-495c-8ae5-0297c3ca9ce5.png)
 ![MC_10year_dist_plot](https://user-images.githubusercontent.com/111472420/196332206-87bc050a-0fb9-4943-a758-d154b3d48f8f.png)
